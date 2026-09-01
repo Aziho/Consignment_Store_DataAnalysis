@@ -105,6 +105,6 @@ For the public portfolio version, sensitive business information was anonymized 
 
 ![Executive Overview](Executive Overview.jpg)
 
-![Sales Trends and Seasonality](Sales Trend &Seasonality.jpg)
+![Sales Trends and Seasonality](Sales Trends &Seasonality.jpg)
 
 ![Financial Performance](Financial Performance.jpg)
