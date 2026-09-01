@@ -103,8 +103,8 @@ For the public portfolio version, sensitive business information was anonymized 
 - Data Cleaning
 - Data Visualization
 
-![Executive Overview](Executive Overview.jpg)
+![Executive Overview](Executive%20Overview.jpg)
 
-![Sales Trends and Seasonality](Sales Trends &Seasonality.jpg)
+![Sales Trends and Seasonality](Sales%20Trend%20%26Seasonality.jpg)
 
-![Financial Performance](Financial Performance.jpg)
+![Financial Performance](Financial%20Performance.jpg)
